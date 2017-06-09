@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[java基础异常]]></title>
+    <url>%2F2017%2F06%2F10%2Fjava%E5%9F%BA%E7%A1%80%E5%BC%82%E5%B8%B8%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>java</category>
+      </categories>
+      <tags>
+        <tag>java基础</tag>
+        <tag>tags</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[java基础泛型]]></title>
     <url>%2F2017%2F06%2F10%2Fjava%E5%9F%BA%E7%A1%80%E6%B3%9B%E5%9E%8B%2F</url>
     <content type="text"></content>
