@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[mysqlSQL语句练习]]></title>
+    <url>%2F2017%2F06%2F10%2FmysqlSQL%E8%AF%AD%E5%8F%A5%E7%BB%83%E4%B9%A0%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>java</category>
+      </categories>
+      <tags>
+        <tag>java基础</tag>
+        <tag>tags</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Java基础枚举类型]]></title>
     <url>%2F2017%2F06%2F10%2FJava%E5%9F%BA%E7%A1%80%E6%9E%9A%E4%B8%BE%E7%B1%BB%E5%9E%8B%2F</url>
     <content type="text"></content>
