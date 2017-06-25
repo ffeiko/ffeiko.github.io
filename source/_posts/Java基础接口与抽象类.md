@@ -17,7 +17,7 @@ date: 2017-06-25 15:52:04
 在JAVA编程语言中是一个抽象类型，是抽象方法的集合，接口通常以interface来声明。一个类通过继承接口的方式，从而来继承接口的抽象方法。
 
 #### 1.通过继承来扩展接口 ####
-` ` `
+```
 //: interfaces/music5/Music5.java
 // Interfaces.
 package interfaces.music5;
@@ -94,7 +94,7 @@ Brass.play() MIDDLE_C
 Woodwind.play() MIDDLE_C
 *///:~
 
-` ` `
+```
 #### 2.组合接口时的名字冲突 ####
 #### 3.适配接口 ####
 接口中最吸引人的原因之一就是允许同一个接口具有多个不同的具体方法实现.
